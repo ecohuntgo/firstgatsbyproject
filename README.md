@@ -1,4 +1,1 @@
 # firstgatsbyproject
-# firstgatsbyproject
-# firstgatsbyproject
-# firstgatsbyproject
